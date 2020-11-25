@@ -1,0 +1,140 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    color: #485159;
+}
+
+
+/*******  Header   *******/
+
+.navbar {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.jumbotron {
+    color: white;
+    background-image: url("../img/hero2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin-top: 56px;
+    margin-bottom: 0;
+}
+
+
+/*****   Articles   *****/
+
+#article {
+    background-color: #e9e8ed;
+    padding: 5%;
+}
+
+#article p,
+#secondarticle p {
+    margin-top: 5%;
+}
+
+#secondarticle {
+    background-color: #e9e8ed;
+    margin-bottom: 5%;
+}
+
+#secondarticle img {
+    width: 100%;
+}
+
+
+/*******  Buttons   ******/
+
+.btn-primary,
+.btn-primary:visited {
+    background-color: #375820;
+    border: 1px solid #375820;
+    margin-top: 5%;
+}
+
+.btn-primary:hover,
+.btn-primary:active {
+    background-color: #708470;
+    border: 1px solid #708470;
+}
+
+#carousel {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+/*******  Social icons  ******/
+
+.social a {
+    font-size: 300%;
+    padding: 5%;
+}
+
+.facebook {
+    color: #3b5998;
+}
+
+.twitter {
+    color: #00aced;
+}
+
+.google {
+    color: #dd4b39
+}
+
+.instagram {
+    color: #517fa4;
+}
+
+.youtube {
+    color: #bb0000;
+}
+
+
+/******   Footer   *******/
+
+footer {
+    background-color: #292b2c;
+}
+
+.padding {
+    padding: 5%;
+}
+
+.card-text {
+    font-size: 90%;
+}
+
+.col-md-4 {
+    margin-bottom: 5%;
+}
+
+#contacts h4 {
+    color: #a9c5bd;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 5%;
+}
+
+#newsletter {
+    background-color: #a9c5bd;
+    border: 10px solid white;
+    color: black;
+    padding: 3%;
+}
+
+#newsletter i {
+    font-size: 400%;
+    padding: 5%;
+}
+
+footer h6,
+#contacts {
+    color: white;
+}
