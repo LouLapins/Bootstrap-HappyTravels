@@ -3,7 +3,7 @@
 
 ## My first Bootstrap project - A mock travel blog
 -------
-*This is school project for my 'HTML & CSS' class, with focus on learning how to use Bootstrap.*
+*School project for my 'HTML & CSS' class, focused on learning how to use Bootstrap.*
 
 ### Installation:
 Make a new folder. 
